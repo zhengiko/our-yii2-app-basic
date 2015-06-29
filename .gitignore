@@ -1,3 +1,6 @@
+#db connection исключаем также
+/config/db.php
+
 # phpstorm project files
 .idea
 
